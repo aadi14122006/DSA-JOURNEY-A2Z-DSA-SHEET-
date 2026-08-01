@@ -39,15 +39,6 @@ I'm currently learning DSA using **Striver's A2Z DSA Sheet**.
 ## 💻 Language
 
 - C++
-
----
-
-## 📈 Progress
-
-Problems Solved: **5**
-
-Current Topic: **Basic Maths**
-
 ---
 
 ## ⭐ Goal
